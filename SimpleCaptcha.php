@@ -88,7 +88,7 @@ class SimpleCaptcha {
     public function getChallenge() {
         return $this->challenge;
     }
-    
+     
     public function outputChallenge() {            
         printf("<input id=\"simpleCaptchaChallenge\" type=\"hidden\" name=\"challenge\" value=\"%s\"/>\r\n", $this->challenge);
         printf('<img id="simpleCaptchaImage" src="%s"/>', $this->getImage());
