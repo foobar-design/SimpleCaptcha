@@ -38,12 +38,12 @@ reloading the entire form, proceed as follows:
    <script type='text/javascript' src='simplecaptcha.js'></script>    
 
 2. Add a link with id = reloadSimpleCaptcha<br/>
-   <a href="" id="reloadSimpleCaptcha">New captcha</a>
+   &laquo;a href="" id="reloadSimpleCaptcha"&raquo;New captcha&laquo;/a&raquo;
 
 3. Done!
 
 
 Version History
 ===============
-version 0.1 (August 03, 2013)
+version 0.1 (August 03, 2013)<br/>
     - Initial release
