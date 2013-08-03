@@ -34,7 +34,15 @@ humans.
    $captcha->outputChallenge();
    ```
 
-5. Embed this into your form and you are done!
+5. Use
+   ```
+   if (@$_POST["submit"] && $captcha->verifyCode($_POST["key"], $_POST["challenge"])) {
+    // all good here!
+   }
+   ```
+   to verify the input of the user
+
+6. Embed this into your form and you are done!
 
 
 
