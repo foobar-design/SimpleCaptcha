@@ -9,12 +9,11 @@ In constrast to other captchas, for instance those provided by Google,
 captchas created by SimpleCaptcha are easily readable by 
 humans. 
 
-## Example
+## Example Captcha
 ![Sample Captcha](https://raw.github.com/foobar-design/SimpleCaptcha/master/img/sample.png "Sample Captcha")
 
 
-How to use SimpleCaptcha
-========================
+## How to use SimpleCaptcha
 1. load SimpleCaptcha.php
    ```
    include("SimpleCaptcha.php");
