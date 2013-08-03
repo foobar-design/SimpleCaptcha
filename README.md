@@ -40,3 +40,10 @@ reloading the entire form, proceed as follows:
 2. Add a link with id = reloadSimpleCaptcha<br/>
    <a href="" id="reloadSimpleCaptcha">New captcha</a>
 
+3. Done!
+
+
+Version History
+===============
+version 0.1 (August 03, 2013)
+    - Initial release
