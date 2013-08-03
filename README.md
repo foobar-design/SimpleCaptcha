@@ -9,6 +9,8 @@ In constrast to other captchas, for instance those provided by Google,
 captchas created by SimpleCaptcha are easily readable by 
 humans. 
 
+## Example
+![Sample Captcha](https://github.com/foobar-design/SimpleCaptcha/blob/master/img/sample.png "Sample Captcha")
 
 
 How to use SimpleCaptcha
