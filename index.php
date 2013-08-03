@@ -10,7 +10,7 @@
         <form action="index.php" method="POST">
             
             <?php
-
+ 
             include 'SimpleCaptcha.php';
             $captcha = new SimpleCaptcha();            
             if (@$_POST["submit"] && $captcha->verifyCode($_POST["key"], $_POST["challenge"])) {
