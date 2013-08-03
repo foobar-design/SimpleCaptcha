@@ -19,7 +19,7 @@
                 $captcha->createChallenge(6);
                 ?>
 
-                Name<br/> 
+                Name<br/>
                 <input type="text" name="name"/> <br/><br/>
                 Captcha<br/> 
                 <?php 

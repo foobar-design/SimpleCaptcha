@@ -4,7 +4,7 @@ $(document).ready(function() {
              $("#simpleCaptchaChallenge").val(data.challenge);
              
              $("#simpleCaptchaImage").attr("src", data.image);
-         }); 
+         });
     });
 });
 
