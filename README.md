@@ -15,7 +15,7 @@ How to use SimpleCaptcha
 ========================
 1. include("SimpleCaptcha.php");
 
-2. Create an instance of SimpleCaptcha:
+2. Create an instance of SimpleCaptcha<br/>
    $captcha = new SimpleCaptcha();  
 
 3. Create the challenge
