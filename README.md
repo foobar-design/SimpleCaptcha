@@ -10,7 +10,7 @@ captchas created by SimpleCaptcha are easily readable by
 humans. 
 
 ## Example
-![Sample Captcha](https://github.com/foobar-design/SimpleCaptcha/blob/master/img/sample.png "Sample Captcha")
+![Sample Captcha](https://raw.github.com/foobar-design/SimpleCaptcha/master/img/sample.png "Sample Captcha")
 
 
 How to use SimpleCaptcha
